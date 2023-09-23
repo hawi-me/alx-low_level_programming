@@ -10,4 +10,5 @@ char *string_toupper(char *n);
 char *cap_string(char *);
 void print_number(int n);
 void print_buffer(char *b, int size);
+char *leet(char *);
 #endif
